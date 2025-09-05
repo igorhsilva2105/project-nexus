@@ -1,6 +1,9 @@
 Project Nexus: Documento de Visão e Plano de Execução
 
-Data de Criação: 2024-05-21 Última Atualização:2024-05-21 Autores:[Seu Nome], [Assistente - DeepSeek-V3] Status:Em Concepção / Rascunho Ativo
+Data de Criação: 2024-05-21 
+Última Atualização:2024-05-21 
+Autores:[Igor Henrique da Silva], [Assistente - DeepSeek-V3] 
+Status:Em Concepção / Rascunho Ativo
 
 ---
 
